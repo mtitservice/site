@@ -1,22 +1,114 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
-sites:
-  - name: palac.ps
-    url: https://palac.ps
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+owner: mtitservice # Your GitHub organization or username, where this repository lives
+repo: site # The name of this repository
+site:
+  - name: https://www.perc.ps
+    url: https://www.perc.ps
+    __dangerous__insecure: true
+  - name: https://www.pncecs.plo.ps
+    url: https://www.pncecs.plo.ps
+    __dangerous__insecure: true
+  - name: https://www.nra.moh.ps
+    url: https://www.nra.moh.ps
+    __dangerous__insecure: true
+  - name: https://www.af.moh.ps
+    url: https://www.af.moh.ps
+    __dangerous__insecure: true
+  - name: https://www.numbering.mtit.pna.ps
+    url: https://www.numbering.mtit.pna.ps
+    __dangerous__insecure: true
+  - name: https://www.hebron.plo.ps
+    url: https://www.hebron.plo.ps
+    __dangerous__insecure: true
+  - name: https://www.nlp.ps
+    url: https://www.nlp.ps
+    __dangerous__insecure: true
+  - name: https://www.ndrmc.gov.ps
+    url: https://www.ndrmc.gov.ps
+    __dangerous__insecure: true
+  - name: https://bethlehem.gov.ps
+    url: https://bethlehem.gov.ps
+    __dangerous__insecure: true
+  - name: https://diaspora.ps
+    url: https://diaspora.ps
+    __dangerous__insecure: true
+  - name: https://mfa.pna.ps
+    url: https://mfa.pna.ps
+    __dangerous__insecure: true
+  - name: https://palpro.ps
+    url: https://palpro.ps
+    __dangerous__insecure: true
+  - name: https://scout.ps
+    url: https://scout.ps
+    __dangerous__insecure: true
+  - name: https://palcp.ps
+    url: https://palcp.ps
+    __dangerous__insecure: true
+  - name: https://harmonization.moj.pna.ps
+    url: https://harmonization.moj.pna.ps
+    __dangerous__insecure: true
+  - name: https://verify.moj.pna.ps
+    url: https://verify.moj.pna.ps
+    __dangerous__insecure: true
+  - name: https://moj.pna.ps
+    url: https://moj.pna.ps
+    __dangerous__insecure: true
+  - name: https://ejrs.moj.pna.ps
+    url: https://ejrs.moj.pna.ps
+    __dangerous__insecure: true
+  - name: https://moj.pna.ps
+    url: https://moj.pna.ps
+    __dangerous__insecure: true
+  - name: https://gcc2.mtit.pna.ps
+    url: https://gcc2.mtit.pna.ps
+    __dangerous__insecure: true
+  - name: https://istiqlalbank.ps
+    url: https://istiqlalbank.ps
+    __dangerous__insecure: true
+  - name: https://ppsmo.ps
+    url: https://ppsmo.ps
+    __dangerous__insecure: true
+  - name: https://palpost.ps
+    url: https://palpost.ps
+    __dangerous__insecure: true
+  - name: https://archive.minfo.ps
+    url: https://archive.minfo.ps
+    __dangerous__insecure: true
+  - name: https://treport.mtit.pna.ps
+    url: https://treport.mtit.pna.ps
+    __dangerous__insecure: true
+  - name: https://hcie.ps
+    url: https://hcie.ps
+    __dangerous__insecure: true
+  - name: https://ftp.mtit.pna.ps
+    url: https://ftp.mtit.pna.ps
+    __dangerous__insecure: true
+  - name: https://sfjc.sec.ps
+    url: https://sfjc.sec.ps
+    __dangerous__insecure: true
+  - name: https://mtit.pna.ps
+    url: https://mtit.pna.ps
+    __dangerous__insecure: true
+  - name: https://minfo.ps
+    url: https://minfo.ps
+    __dangerous__insecure: true
+  - name: https://detulkarm.edu.ps
+    url: https://detulkarm.edu.ps
+    __dangerous__insecure: true
+  - name: https://mob.pji.pna.ps
+    url: https://mob.pji.pna.ps
+    __dangerous__insecure: true
+  - name: https://db.hcys.ps
+    url: https://db.hcys.ps
+    __dangerous__insecure: true
+  - name: https://reports.mtit.pna.ps
+    url: https://reports.mtit.pna.ps
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /site
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."

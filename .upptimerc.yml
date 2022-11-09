@@ -1,7 +1,8 @@
 # Change these first
 owner: mtitservice # Your GitHub organization or username, where this repository lives
 repo: site # The name of this repository
-site:
+
+sites:
   - name: https://www.perc.ps
     url: https://www.perc.ps
     __dangerous__insecure: true

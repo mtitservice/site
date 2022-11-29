@@ -3,6 +3,12 @@ owner: mtitservice # Your GitHub organization or username, where this repository
 repo: site # The name of this repository
 
 sites:
+  - name: https://salfeet.plo.ps
+    url: https://salfeet.plo.ps
+    __dangerous__insecure: true
+  - name: https://takaful.salfeet.plo.ps
+    url: https://takaful.salfeet.plo.ps
+    __dangerous__insecure: true
   - name: https://www.perc.ps
     url: https://www.perc.ps
     __dangerous__insecure: true

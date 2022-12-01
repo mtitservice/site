@@ -111,7 +111,9 @@ sites:
   - name: https://reports.mtit.pna.ps
     url: https://reports.mtit.pna.ps
     __dangerous__insecure: true
-
+  - name: https://911.ps
+    url: https://911.ps
+    __dangerous__insecure: true
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

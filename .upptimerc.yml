@@ -69,9 +69,6 @@ sites:
   - name: https://gcc2.mtit.pna.ps
     url: https://gcc2.mtit.pna.ps
     __dangerous__insecure: true
-  - name: https://istiqlalbank.ps
-    url: https://istiqlalbank.ps
-    __dangerous__insecure: true
   - name: https://ppsmo.ps
     url: https://ppsmo.ps
     __dangerous__insecure: true

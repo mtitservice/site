@@ -1,7 +1,7 @@
 url: https://ejrs.moj.pna.ps
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-03-05T13:57:49.589Z
+status: up
+code: 200
+responseTime: 1277
+lastUpdated: 2023-03-05T14:28:57.556Z
 startTime: Wed Nov 09 2022 04:02:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

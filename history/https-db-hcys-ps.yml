@@ -1,7 +1,7 @@
 url: https://db.hcys.ps
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-03-06T19:24:41.489Z
+status: up
+code: 200
+responseTime: 730
+lastUpdated: 2023-03-06T21:03:50.290Z
 startTime: Wed Nov 09 2022 04:02:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

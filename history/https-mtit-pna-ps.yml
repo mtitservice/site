@@ -1,7 +1,7 @@
 url: https://mtit.pna.ps
-status: up
-code: 200
-responseTime: 1394
-lastUpdated: 2023-05-07T03:42:21.061Z
+status: down
+code: 503
+responseTime: 931
+lastUpdated: 2023-05-07T08:36:17.388Z
 startTime: Wed Nov 09 2022 04:02:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

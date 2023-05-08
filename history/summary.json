@@ -4,19 +4,19 @@
     "url": "https://salfeet.plo.ps",
     "icon": "https://icons.duckduckgo.com/ip3/salfeet.plo.ps.ico",
     "slug": "https-salfeet-plo-ps",
-    "status": "up",
-    "uptime": "96.29%",
-    "uptimeDay": "48.98%",
-    "uptimeWeek": "69.81%",
-    "uptimeMonth": "80.47%",
-    "uptimeYear": "96.29%",
+    "status": "down",
+    "uptime": "96.30%",
+    "uptimeDay": "49.21%",
+    "uptimeWeek": "69.63%",
+    "uptimeMonth": "80.55%",
+    "uptimeYear": "96.30%",
     "time": 7099,
     "timeDay": 6429,
     "timeWeek": 5536,
     "timeMonth": 6557,
     "timeYear": 7099,
     "dailyMinutesDown": {
-      "2023-05-08": 370,
+      "2023-05-08": 388,
       "2023-05-07": 517,
       "2023-05-06": 557,
       "2023-05-05": 490,
@@ -37,8 +37,7 @@
       "2023-04-20": 162,
       "2023-04-19": 152,
       "2023-04-18": 51,
-      "2023-04-17": 175,
-      "2023-04-16": 54
+      "2023-04-17": 175
     }
   },
   {
@@ -46,19 +45,19 @@
     "url": "https://takaful.salfeet.plo.ps",
     "icon": "https://icons.duckduckgo.com/ip3/takaful.salfeet.plo.ps.ico",
     "slug": "https-takaful-salfeet-plo-ps",
-    "status": "up",
-    "uptime": "97.41%",
-    "uptimeDay": "59.51%",
-    "uptimeWeek": "77.28%",
-    "uptimeMonth": "86.39%",
-    "uptimeYear": "97.41%",
+    "status": "down",
+    "uptime": "97.42%",
+    "uptimeDay": "58.26%",
+    "uptimeWeek": "77.10%",
+    "uptimeMonth": "86.41%",
+    "uptimeYear": "97.42%",
     "time": 5819,
     "timeDay": 6179,
     "timeWeek": 5870,
     "timeMonth": 6295,
     "timeYear": 5819,
     "dailyMinutesDown": {
-      "2023-05-08": 349,
+      "2023-05-08": 367,
       "2023-05-07": 234,
       "2023-05-06": 370,
       "2023-05-05": 372,
@@ -80,7 +79,7 @@
       "2023-04-19": 638,
       "2023-04-18": 621,
       "2023-04-17": 251,
-      "2023-04-16": 101
+      "2023-04-16": 71
     }
   },
   {
@@ -88,11 +87,11 @@
     "url": "https://www.perc.ps",
     "icon": "https://icons.duckduckgo.com/ip3/www.perc.ps.ico",
     "slug": "https-www-perc-ps",
-    "status": "up",
+    "status": "down",
     "uptime": "96.67%",
-    "uptimeDay": "48.45%",
-    "uptimeWeek": "74.26%",
-    "uptimeMonth": "80.24%",
+    "uptimeDay": "48.75%",
+    "uptimeWeek": "74.08%",
+    "uptimeMonth": "80.26%",
     "uptimeYear": "96.67%",
     "time": 4274,
     "timeDay": 4359,
@@ -100,7 +99,7 @@
     "timeMonth": 4416,
     "timeYear": 4274,
     "dailyMinutesDown": {
-      "2023-05-08": 378,
+      "2023-05-08": 396,
       "2023-05-07": 516,
       "2023-05-06": 542,
       "2023-05-05": 299,
@@ -124,7 +123,7 @@
       "2023-04-17": 135,
       "2023-04-16": 195,
       "2023-04-15": 171,
-      "2023-04-14": 154
+      "2023-04-14": 126
     }
   },
   {
@@ -132,11 +131,11 @@
     "url": "https://www.pncecs.plo.ps",
     "icon": "https://icons.duckduckgo.com/ip3/www.pncecs.plo.ps.ico",
     "slug": "https-www-pncecs-plo-ps",
-    "status": "up",
+    "status": "down",
     "uptime": "96.93%",
-    "uptimeDay": "49.86%",
-    "uptimeWeek": "61.98%",
-    "uptimeMonth": "81.78%",
+    "uptimeDay": "50.19%",
+    "uptimeWeek": "61.81%",
+    "uptimeMonth": "81.82%",
     "uptimeYear": "96.93%",
     "time": 7184,
     "timeDay": 6531,
@@ -144,7 +143,7 @@
     "timeMonth": 7691,
     "timeYear": 7184,
     "dailyMinutesDown": {
-      "2023-05-08": 378,
+      "2023-05-08": 395,
       "2023-05-07": 495,
       "2023-05-06": 539,
       "2023-05-05": 1134,
@@ -168,8 +167,7 @@
       "2023-04-17": 98,
       "2023-04-16": 133,
       "2023-04-15": 218,
-      "2023-04-14": 232,
-      "2023-04-13": 34
+      "2023-04-14": 232
     }
   },
   {
@@ -189,7 +187,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 630,
+      "2023-05-08": 652,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -389,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 630,
+      "2023-05-08": 652,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -589,7 +587,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 630,
+      "2023-05-08": 652,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -789,7 +787,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 630,
+      "2023-05-08": 652,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -989,7 +987,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 630,
+      "2023-05-08": 652,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -1189,7 +1187,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 630,
+      "2023-05-08": 652,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -1389,7 +1387,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 630,
+      "2023-05-08": 652,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -1589,7 +1587,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 630,
+      "2023-05-08": 652,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -1789,7 +1787,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 630,
+      "2023-05-08": 652,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -1977,19 +1975,19 @@
     "url": "https://palpro.ps",
     "icon": "https://icons.duckduckgo.com/ip3/palpro.ps.ico",
     "slug": "https-palpro-ps",
-    "status": "up",
-    "uptime": "97.08%",
-    "uptimeDay": "84.22%",
-    "uptimeWeek": "72.51%",
-    "uptimeMonth": "82.68%",
-    "uptimeYear": "97.08%",
+    "status": "down",
+    "uptime": "97.10%",
+    "uptimeDay": "83.37%",
+    "uptimeWeek": "72.39%",
+    "uptimeMonth": "82.80%",
+    "uptimeYear": "97.10%",
     "time": 4866,
     "timeDay": 6234,
     "timeWeek": 5374,
     "timeMonth": 5555,
     "timeYear": 4866,
     "dailyMinutesDown": {
-      "2023-05-08": 95,
+      "2023-05-08": 107,
       "2023-05-07": 160,
       "2023-05-06": 480,
       "2023-05-05": 369,
@@ -2012,7 +2010,7 @@
       "2023-04-18": 72,
       "2023-04-17": 155,
       "2023-04-16": 962,
-      "2023-04-15": 494
+      "2023-04-15": 432
     }
   },
   {
@@ -2032,7 +2030,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 630,
+      "2023-05-08": 652,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -2220,19 +2218,19 @@
     "url": "https://palcp.ps",
     "icon": "https://icons.duckduckgo.com/ip3/palcp.ps.ico",
     "slug": "https-palcp-ps",
-    "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "85.69%",
-    "uptimeWeek": "73.09%",
-    "uptimeMonth": "84.24%",
-    "uptimeYear": "97.34%",
+    "status": "down",
+    "uptime": "97.36%",
+    "uptimeDay": "84.91%",
+    "uptimeWeek": "72.98%",
+    "uptimeMonth": "84.34%",
+    "uptimeYear": "97.36%",
     "time": 6148,
     "timeDay": 6065,
     "timeWeek": 6908,
     "timeMonth": 7035,
     "timeYear": 6148,
     "dailyMinutesDown": {
-      "2023-05-08": 65,
+      "2023-05-08": 76,
       "2023-05-07": 140,
       "2023-05-06": 521,
       "2023-05-05": 300,
@@ -2256,7 +2254,7 @@
       "2023-04-17": 152,
       "2023-04-16": 186,
       "2023-04-15": 151,
-      "2023-04-14": 393
+      "2023-04-14": 341
     }
   },
   {
@@ -2264,19 +2262,19 @@
     "url": "https://harmonization.moj.pna.ps",
     "icon": "https://icons.duckduckgo.com/ip3/harmonization.moj.pna.ps.ico",
     "slug": "https-harmonization-moj-pna-ps",
-    "status": "up",
-    "uptime": "97.54%",
-    "uptimeDay": "83.11%",
-    "uptimeWeek": "80.62%",
-    "uptimeMonth": "85.40%",
-    "uptimeYear": "97.54%",
+    "status": "down",
+    "uptime": "97.55%",
+    "uptimeDay": "82.36%",
+    "uptimeWeek": "80.51%",
+    "uptimeMonth": "85.47%",
+    "uptimeYear": "97.55%",
     "time": 6657,
     "timeDay": 6725,
     "timeWeek": 7484,
     "timeMonth": 7032,
     "timeYear": 6657,
     "dailyMinutesDown": {
-      "2023-05-08": 115,
+      "2023-05-08": 126,
       "2023-05-07": 129,
       "2023-05-06": 437,
       "2023-05-05": 365,
@@ -2299,8 +2297,7 @@
       "2023-04-18": 194,
       "2023-04-17": 228,
       "2023-04-16": 185,
-      "2023-04-15": 173,
-      "2023-04-14": 35
+      "2023-04-15": 166
     }
   },
   {
@@ -2308,19 +2305,19 @@
     "url": "https://verify.moj.pna.ps",
     "icon": "https://icons.duckduckgo.com/ip3/verify.moj.pna.ps.ico",
     "slug": "https-verify-moj-pna-ps",
-    "status": "up",
-    "uptime": "95.12%",
-    "uptimeDay": "80.36%",
-    "uptimeWeek": "80.34%",
-    "uptimeMonth": "71.07%",
-    "uptimeYear": "95.12%",
+    "status": "down",
+    "uptime": "95.14%",
+    "uptimeDay": "79.64%",
+    "uptimeWeek": "80.24%",
+    "uptimeMonth": "71.22%",
+    "uptimeYear": "95.14%",
     "time": 4760,
     "timeDay": 5803,
     "timeWeek": 6352,
     "timeMonth": 5277,
     "timeYear": 4760,
     "dailyMinutesDown": {
-      "2023-05-08": 95,
+      "2023-05-08": 105,
       "2023-05-07": 188,
       "2023-05-06": 449,
       "2023-05-05": 238,
@@ -2346,7 +2343,7 @@
       "2023-04-15": 1322,
       "2023-04-14": 1023,
       "2023-04-13": 866,
-      "2023-04-12": 162
+      "2023-04-12": 87
     }
   },
   {
@@ -2354,11 +2351,11 @@
     "url": "https://moj.pna.ps",
     "icon": "https://icons.duckduckgo.com/ip3/moj.pna.ps.ico",
     "slug": "https-moj-pna-ps",
-    "status": "up",
+    "status": "down",
     "uptime": "95.32%",
-    "uptimeDay": "87.83%",
-    "uptimeWeek": "62.40%",
-    "uptimeMonth": "72.40%",
+    "uptimeDay": "87.23%",
+    "uptimeWeek": "62.31%",
+    "uptimeMonth": "72.38%",
     "uptimeYear": "95.32%",
     "time": 3310,
     "timeDay": 2786,
@@ -2366,7 +2363,7 @@
     "timeMonth": 3804,
     "timeYear": 3310,
     "dailyMinutesDown": {
-      "2023-05-08": 96,
+      "2023-05-08": 105,
       "2023-05-07": 80,
       "2023-05-06": 613,
       "2023-05-05": 1077,
@@ -2397,7 +2394,7 @@
       "2023-04-10": 833,
       "2023-04-09": 1198,
       "2023-04-08": 380,
-      "2023-04-07": 61
+      "2023-04-07": 41
     }
   },
   {
@@ -2405,19 +2402,19 @@
     "url": "https://ejrs.moj.pna.ps",
     "icon": "https://icons.duckduckgo.com/ip3/ejrs.moj.pna.ps.ico",
     "slug": "https-ejrs-moj-pna-ps",
-    "status": "up",
-    "uptime": "94.42%",
-    "uptimeDay": "69.16%",
-    "uptimeWeek": "68.37%",
-    "uptimeMonth": "66.94%",
-    "uptimeYear": "94.42%",
+    "status": "down",
+    "uptime": "94.45%",
+    "uptimeDay": "70.03%",
+    "uptimeWeek": "68.28%",
+    "uptimeMonth": "67.12%",
+    "uptimeYear": "94.45%",
     "time": 4808,
     "timeDay": 3713,
     "timeWeek": 5049,
     "timeMonth": 6466,
     "timeYear": 4808,
     "dailyMinutesDown": {
-      "2023-05-08": 64,
+      "2023-05-08": 73,
       "2023-05-07": 1011,
       "2023-05-06": 835,
       "2023-05-05": 408,
@@ -2445,8 +2442,7 @@
       "2023-04-13": 406,
       "2023-04-12": 1014,
       "2023-04-11": 1306,
-      "2023-04-10": 657,
-      "2023-04-09": 90
+      "2023-04-10": 657
     }
   },
   {
@@ -2454,11 +2450,11 @@
     "url": "https://moj.pna.ps",
     "icon": "https://icons.duckduckgo.com/ip3/moj.pna.ps.ico",
     "slug": "https-moj-pna-ps",
-    "status": "up",
+    "status": "down",
     "uptime": "95.32%",
-    "uptimeDay": "87.83%",
-    "uptimeWeek": "62.40%",
-    "uptimeMonth": "72.40%",
+    "uptimeDay": "87.23%",
+    "uptimeWeek": "62.31%",
+    "uptimeMonth": "72.38%",
     "uptimeYear": "95.32%",
     "time": 3310,
     "timeDay": 2786,
@@ -2466,7 +2462,7 @@
     "timeMonth": 3804,
     "timeYear": 3310,
     "dailyMinutesDown": {
-      "2023-05-08": 96,
+      "2023-05-08": 105,
       "2023-05-07": 80,
       "2023-05-06": 613,
       "2023-05-05": 1077,
@@ -2497,7 +2493,7 @@
       "2023-04-10": 833,
       "2023-04-09": 1198,
       "2023-04-08": 380,
-      "2023-04-07": 61
+      "2023-04-07": 41
     }
   },
   {
@@ -2505,19 +2501,19 @@
     "url": "https://gcc2.mtit.pna.ps",
     "icon": "https://icons.duckduckgo.com/ip3/gcc2.mtit.pna.ps.ico",
     "slug": "https-gcc2-mtit-pna-ps",
-    "status": "up",
-    "uptime": "95.72%",
-    "uptimeDay": "79.10%",
-    "uptimeWeek": "64.32%",
-    "uptimeMonth": "74.65%",
-    "uptimeYear": "95.72%",
+    "status": "down",
+    "uptime": "95.73%",
+    "uptimeDay": "78.50%",
+    "uptimeWeek": "64.24%",
+    "uptimeMonth": "74.68%",
+    "uptimeYear": "95.73%",
     "time": 5101,
     "timeDay": 2783,
     "timeWeek": 12041,
     "timeMonth": 7148,
     "timeYear": 5101,
     "dailyMinutesDown": {
-      "2023-05-08": 93,
+      "2023-05-08": 102,
       "2023-05-07": 208,
       "2023-05-06": 779,
       "2023-05-05": 1149,
@@ -2544,7 +2540,7 @@
       "2023-04-14": 284,
       "2023-04-13": 451,
       "2023-04-12": 257,
-      "2023-04-11": 197
+      "2023-04-11": 176
     }
   },
   {
@@ -2552,19 +2548,19 @@
     "url": "https://ppsmo.ps",
     "icon": "https://icons.duckduckgo.com/ip3/ppsmo.ps.ico",
     "slug": "https-ppsmo-ps",
-    "status": "up",
-    "uptime": "97.86%",
-    "uptimeDay": "81.80%",
-    "uptimeWeek": "58.20%",
-    "uptimeMonth": "87.31%",
-    "uptimeYear": "97.86%",
+    "status": "down",
+    "uptime": "97.91%",
+    "uptimeDay": "81.23%",
+    "uptimeWeek": "58.34%",
+    "uptimeMonth": "87.59%",
+    "uptimeYear": "97.91%",
     "time": 4294,
     "timeDay": 5159,
     "timeWeek": 4367,
     "timeMonth": 4506,
     "timeYear": 4294,
     "dailyMinutesDown": {
-      "2023-05-08": 93,
+      "2023-05-08": 101,
       "2023-05-07": 378,
       "2023-05-06": 708,
       "2023-05-05": 667,
@@ -2573,7 +2569,7 @@
       "2023-05-02": 741,
       "2023-05-01": 782,
       "2023-04-30": 620,
-      "2023-04-29": 463
+      "2023-04-29": 332
     }
   },
   {
@@ -2581,19 +2577,19 @@
     "url": "https://palpost.ps",
     "icon": "https://icons.duckduckgo.com/ip3/palpost.ps.ico",
     "slug": "https-palpost-ps",
-    "status": "up",
-    "uptime": "97.89%",
-    "uptimeDay": "82.99%",
-    "uptimeWeek": "61.92%",
-    "uptimeMonth": "87.50%",
-    "uptimeYear": "97.89%",
+    "status": "down",
+    "uptime": "97.90%",
+    "uptimeDay": "82.45%",
+    "uptimeWeek": "62.06%",
+    "uptimeMonth": "87.55%",
+    "uptimeYear": "97.90%",
     "time": 4973,
     "timeDay": 4471,
     "timeWeek": 4373,
     "timeMonth": 4736,
     "timeYear": 4973,
     "dailyMinutesDown": {
-      "2023-05-08": 92,
+      "2023-05-08": 100,
       "2023-05-07": 311,
       "2023-05-06": 667,
       "2023-05-05": 722,
@@ -2602,7 +2598,7 @@
       "2023-05-02": 646,
       "2023-05-01": 846,
       "2023-04-30": 717,
-      "2023-04-29": 523
+      "2023-04-29": 493
     }
   },
   {
@@ -2610,19 +2606,19 @@
     "url": "https://archive.minfo.ps",
     "icon": "https://icons.duckduckgo.com/ip3/archive.minfo.ps.ico",
     "slug": "https-archive-minfo-ps",
-    "status": "up",
-    "uptime": "97.08%",
-    "uptimeDay": "77.60%",
-    "uptimeWeek": "56.22%",
-    "uptimeMonth": "82.68%",
-    "uptimeYear": "97.08%",
+    "status": "down",
+    "uptime": "97.13%",
+    "uptimeDay": "77.10%",
+    "uptimeWeek": "56.20%",
+    "uptimeMonth": "82.98%",
+    "uptimeYear": "97.13%",
     "time": 6273,
     "timeDay": 8201,
-    "timeWeek": 9918,
+    "timeWeek": 9674,
     "timeMonth": 7525,
     "timeYear": 6273,
     "dailyMinutesDown": {
-      "2023-05-08": 62,
+      "2023-05-08": 69,
       "2023-05-07": 344,
       "2023-05-06": 840,
       "2023-05-05": 905,
@@ -2634,7 +2630,7 @@
       "2023-04-29": 504,
       "2023-04-28": 680,
       "2023-04-27": 355,
-      "2023-04-26": 245
+      "2023-04-26": 105
     }
   },
   {
@@ -2642,19 +2638,19 @@
     "url": "https://treport.mtit.pna.ps",
     "icon": "https://icons.duckduckgo.com/ip3/treport.mtit.pna.ps.ico",
     "slug": "https-treport-mtit-pna-ps",
-    "status": "up",
-    "uptime": "95.84%",
-    "uptimeDay": "75.03%",
-    "uptimeWeek": "56.08%",
-    "uptimeMonth": "75.37%",
-    "uptimeYear": "95.84%",
+    "status": "down",
+    "uptime": "95.85%",
+    "uptimeDay": "74.56%",
+    "uptimeWeek": "56.02%",
+    "uptimeMonth": "75.43%",
+    "uptimeYear": "95.85%",
     "time": 3507,
     "timeDay": 4717,
     "timeWeek": 3772,
     "timeMonth": 3552,
     "timeYear": 3507,
     "dailyMinutesDown": {
-      "2023-05-08": 92,
+      "2023-05-08": 99,
       "2023-05-07": 467,
       "2023-05-06": 856,
       "2023-05-05": 1130,
@@ -2671,7 +2667,7 @@
       "2023-04-24": 571,
       "2023-04-23": 1155,
       "2023-04-22": 894,
-      "2023-04-21": 539
+      "2023-04-21": 504
     }
   },
   {
@@ -2679,19 +2675,19 @@
     "url": "https://hcie.ps",
     "icon": "https://icons.duckduckgo.com/ip3/hcie.ps.ico",
     "slug": "https-hcie-ps",
-    "status": "up",
-    "uptime": "96.24%",
-    "uptimeDay": "36.63%",
-    "uptimeWeek": "53.14%",
-    "uptimeMonth": "77.75%",
-    "uptimeYear": "96.24%",
+    "status": "down",
+    "uptime": "96.71%",
+    "uptimeDay": "36.20%",
+    "uptimeWeek": "53.08%",
+    "uptimeMonth": "80.50%",
+    "uptimeYear": "96.71%",
     "time": 8876,
     "timeDay": 10556,
     "timeWeek": 10440,
     "timeMonth": 10463,
     "timeYear": 8876,
     "dailyMinutesDown": {
-      "2023-05-08": 538,
+      "2023-05-08": 544,
       "2023-05-07": 574,
       "2023-05-06": 915,
       "2023-05-05": 752,
@@ -2708,8 +2704,7 @@
       "2023-04-24": 513,
       "2023-04-23": 99,
       "2023-04-22": 137,
-      "2023-04-21": 948,
-      "2023-04-20": 374
+      "2023-04-21": 111
     }
   },
   {
@@ -2729,7 +2724,7 @@
     "timeMonth": 0,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-05-08": 631,
+      "2023-05-08": 653,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -2929,7 +2924,7 @@
     "timeMonth": 2311,
     "timeYear": 2167,
     "dailyMinutesDown": {
-      "2023-05-08": 631,
+      "2023-05-08": 653,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -3062,19 +3057,19 @@
     "url": "https://mtit.pna.ps",
     "icon": "https://icons.duckduckgo.com/ip3/mtit.pna.ps.ico",
     "slug": "https-mtit-pna-ps",
-    "status": "up",
-    "uptime": "96.72%",
-    "uptimeDay": "77.07%",
-    "uptimeWeek": "56.89%",
-    "uptimeMonth": "80.57%",
-    "uptimeYear": "96.72%",
+    "status": "down",
+    "uptime": "96.80%",
+    "uptimeDay": "76.73%",
+    "uptimeWeek": "57.07%",
+    "uptimeMonth": "81.01%",
+    "uptimeYear": "96.80%",
     "time": 2647,
     "timeDay": 2971,
     "timeWeek": 3060,
     "timeMonth": 3067,
     "timeYear": 2647,
     "dailyMinutesDown": {
-      "2023-05-08": 90,
+      "2023-05-08": 95,
       "2023-05-07": 733,
       "2023-05-06": 816,
       "2023-05-05": 620,
@@ -3088,7 +3083,7 @@
       "2023-04-27": 106,
       "2023-04-26": 313,
       "2023-04-25": 349,
-      "2023-04-24": 472
+      "2023-04-24": 278
     }
   },
   {
@@ -3096,19 +3091,19 @@
     "url": "https://minfo.ps",
     "icon": "https://icons.duckduckgo.com/ip3/minfo.ps.ico",
     "slug": "https-minfo-ps",
-    "status": "up",
-    "uptime": "97.24%",
-    "uptimeDay": "65.32%",
-    "uptimeWeek": "53.37%",
-    "uptimeMonth": "83.62%",
-    "uptimeYear": "97.24%",
+    "status": "down",
+    "uptime": "97.25%",
+    "uptimeDay": "65.01%",
+    "uptimeWeek": "53.55%",
+    "uptimeMonth": "83.68%",
+    "uptimeYear": "97.25%",
     "time": 4314,
-    "timeDay": 5064,
+    "timeDay": 5271,
     "timeWeek": 5886,
     "timeMonth": 5367,
     "timeYear": 4314,
     "dailyMinutesDown": {
-      "2023-05-08": 197,
+      "2023-05-08": 201,
       "2023-05-07": 557,
       "2023-05-06": 865,
       "2023-05-05": 559,
@@ -3119,7 +3114,7 @@
       "2023-04-30": 703,
       "2023-04-29": 698,
       "2023-04-28": 594,
-      "2023-04-27": 278
+      "2023-04-27": 249
     }
   },
   {
@@ -3127,19 +3122,19 @@
     "url": "https://detulkarm.edu.ps",
     "icon": "https://icons.duckduckgo.com/ip3/detulkarm.edu.ps.ico",
     "slug": "https-detulkarm-edu-ps",
-    "status": "up",
-    "uptime": "97.63%",
-    "uptimeDay": "48.27%",
-    "uptimeWeek": "45.48%",
-    "uptimeMonth": "85.95%",
-    "uptimeYear": "97.63%",
+    "status": "down",
+    "uptime": "97.64%",
+    "uptimeDay": "49.53%",
+    "uptimeWeek": "45.58%",
+    "uptimeMonth": "86.00%",
+    "uptimeYear": "97.64%",
     "time": 2046,
     "timeDay": 2481,
     "timeWeek": 2891,
     "timeMonth": 1946,
     "timeYear": 2046,
     "dailyMinutesDown": {
-      "2023-05-08": 414,
+      "2023-05-08": 418,
       "2023-05-07": 849,
       "2023-05-06": 685,
       "2023-05-05": 857,
@@ -3147,7 +3142,7 @@
       "2023-05-03": 615,
       "2023-05-02": 732,
       "2023-05-01": 680,
-      "2023-04-30": 415
+      "2023-04-30": 389
     }
   },
   {
@@ -3167,7 +3162,7 @@
     "timeMonth": 2108,
     "timeYear": 2358,
     "dailyMinutesDown": {
-      "2023-05-08": 632,
+      "2023-05-08": 654,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -3355,19 +3350,19 @@
     "url": "https://db.hcys.ps",
     "icon": "https://icons.duckduckgo.com/ip3/db.hcys.ps.ico",
     "slug": "https-db-hcys-ps",
-    "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "57.78%",
-    "uptimeWeek": "59.93%",
-    "uptimeMonth": "86.34%",
-    "uptimeYear": "97.69%",
+    "status": "down",
+    "uptime": "97.71%",
+    "uptimeDay": "59.11%",
+    "uptimeWeek": "60.06%",
+    "uptimeMonth": "86.44%",
+    "uptimeYear": "97.71%",
     "time": 2372,
     "timeDay": 3034,
     "timeWeek": 2675,
     "timeMonth": 2619,
     "timeYear": 2372,
     "dailyMinutesDown": {
-      "2023-05-08": 215,
+      "2023-05-08": 218,
       "2023-05-07": 649,
       "2023-05-06": 485,
       "2023-05-05": 693,
@@ -3378,7 +3373,7 @@
       "2023-04-30": 587,
       "2023-04-29": 578,
       "2023-04-28": 462,
-      "2023-04-27": 104
+      "2023-04-27": 57
     }
   },
   {
@@ -3386,19 +3381,19 @@
     "url": "https://reports.mtit.pna.ps",
     "icon": "https://icons.duckduckgo.com/ip3/reports.mtit.pna.ps.ico",
     "slug": "https-reports-mtit-pna-ps",
-    "status": "up",
-    "uptime": "97.72%",
-    "uptimeDay": "65.43%",
-    "uptimeWeek": "57.13%",
-    "uptimeMonth": "86.50%",
-    "uptimeYear": "97.72%",
+    "status": "down",
+    "uptime": "97.73%",
+    "uptimeDay": "66.29%",
+    "uptimeWeek": "57.26%",
+    "uptimeMonth": "86.56%",
+    "uptimeYear": "97.73%",
     "time": 6345,
     "timeDay": 5072,
     "timeWeek": 6285,
     "timeMonth": 6950,
     "timeYear": 6345,
     "dailyMinutesDown": {
-      "2023-05-08": 181,
+      "2023-05-08": 184,
       "2023-05-07": 388,
       "2023-05-06": 651,
       "2023-05-05": 614,
@@ -3408,7 +3403,7 @@
       "2023-05-01": 544,
       "2023-04-30": 718,
       "2023-04-29": 591,
-      "2023-04-28": 41
+      "2023-04-28": 12
     }
   },
   {
@@ -3417,18 +3412,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/911.ps.ico",
     "slug": "https-911-ps",
     "status": "down",
-    "uptime": "97.16%",
-    "uptimeDay": "64.15%",
+    "uptime": "97.15%",
+    "uptimeDay": "63.63%",
     "uptimeWeek": "55.19%",
-    "uptimeMonth": "85.28%",
-    "uptimeYear": "97.16%",
+    "uptimeMonth": "85.23%",
+    "uptimeYear": "97.15%",
     "time": 2475,
     "timeDay": 2756,
     "timeWeek": 2918,
     "timeMonth": 2528,
     "timeYear": 2475,
     "dailyMinutesDown": {
-      "2023-05-08": 196,
+      "2023-05-08": 218,
       "2023-05-07": 545,
       "2023-05-06": 650,
       "2023-05-05": 670,
